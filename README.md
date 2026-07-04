@@ -44,12 +44,12 @@ Module4/
 3. Example output:
 
    ```
-  ===== News Article Analysis =====
-Occurrences of 'the': 54
-Most common word: the
-Average word length: 5.22
-Number of paragraphs: 19
-Number of sentences: 48
+   ===== News Article Analysis =====
+   Occurrences of 'the': 54
+   Most common word: the
+   Average word length: 5.22
+   Number of paragraphs: 19
+   Number of sentences: 48
    ```
 
 ## Functions
